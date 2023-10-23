@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(160, 97, 220);
+}
+.two{
+    background-color: white;
+    margin: auto;
+    width: 40%;
+    height:240px;
+    padding: 10px;
+    margin-top: 200px;
+    border-radius: 12px;
+}
+.one{
+    /* background-color: red; */
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    /* margin-top: 250px; */
+    border-radius: 12px; 
+    
+}
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .imagee{
+    padding-left: 140px;
+  }
+
+  .topic{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 20px;
+ color: rgb(142, 132, 132);
+ margin-top: 42px;
+ z-index:0;
+ 
+  }
+  .symbol{
+    
+    width:110px;
+  }
+  .topic1{
+    z-index: 1;
+  }
+  
